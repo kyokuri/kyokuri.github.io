@@ -8,12 +8,10 @@ title: ホーム
 <p>ワークショップの開催結果や今後の予定などを掲載していく予定です。</p>
 
 <h3>What's New</h3>
-<ul>
-	<li>大阪大学いちょう祭ワークショップを開催しました （2013年5月3日更新）</li>
-	<li>先日のOSC Tokyo 2013 Springでのワークショップを＠ＩＴ様に紹介していただきました （2013年4月6日更新）</li>
-	<li>オープンソースカンファレンス2013 Tokyo/Springにてワークショップを開催します。 （2013年2月20日更新）</li>
-	<li>ワークショップ開催のお知らせ（2012年11月28日） （2012年11月27日更新）</li>
-	<li>11月13日(火)にワークショップをします （2012年11月12日更新）</li>
+<ul class="posts">
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
 </ul>
 
 <h3>Links</h3>
