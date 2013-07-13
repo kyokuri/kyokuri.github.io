@@ -8,8 +8,8 @@ title: ホーム
 <p>ワークショップの開催結果や今後の予定などを掲載していく予定です。</p>
 
 <h3>What's New</h3>
-<ul class="posts">
-	{% for post in site.posts %}
+<ul>
+	{% for post in site.posts limit:5 %}
 		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
