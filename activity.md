@@ -11,7 +11,7 @@ page: activity
 ### これまでの活動
 <ul>
 	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		<li><time>{{ post.date | date_to_string }}</time> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
 
