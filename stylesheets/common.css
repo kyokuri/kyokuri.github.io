@@ -12,3 +12,8 @@
 #header_nav li:last-child {
 	border-right: none;
 }
+
+.gallery img {
+	height: 150px;
+	width: auto;
+}
