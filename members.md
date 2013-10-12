@@ -21,7 +21,7 @@ page: members
 ### お問い合わせ先
 
 kyokuriws\[at\]gmail.com  
-（[at]を@に変えて下さい）
+（\[at:\]を@に変えて下さい）
 
 ### 郵便物でお問い合わせの場合
 
