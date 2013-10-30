@@ -15,4 +15,6 @@ title: 10月20日にノートルダム女子大学にてWebMakerワークショ�
 
 また当日使用したテキストは[こちら](https://gist.github.com/pastak/7036179)です。  
 
-
+![http://kyokuri.pwsj.org/images/1383288_691975790814308_17196195_n.jpg](http://kyokuri.pwsj.org/images/1383288_691975790814308_17196195_n.jpg)
+![http://kyokuri.pwsj.org/images/1377475_691975630814324_1571853568_n.jpg](http://kyokuri.pwsj.org/images/1377475_691975630814324_1571853568_n.jpg)
+![http://kyokuri.pwsj.org/images/2555_691975677480986_23331873_n.jpg](http://kyokuri.pwsj.org/images/2555_691975677480986_23331873_n.jpg)
