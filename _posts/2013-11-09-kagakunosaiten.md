@@ -17,3 +17,9 @@ title: 11月9日、10日に2013青少年科学の祭典でブース出展をし�
 我々スタッフも様々なアイデアを見ることができて楽しめました。  
 大勢の参加者に楽しんでいただき大変有意義な活動になりました。  
 来年も出展したいと思います。  
+
+<div class="gallery">
+  <a href="/images/blogs/kagakunosaiten/1095105_703016199710267_848976152_n.jpg"><img src="/images/blogs/kagakunosaiten/1095105_703016199710267_848976152_n.jpg" alt=""></a>
+  <a href="/images/blogs/kagakunosaiten/1463691_703016143043606_1301622678_n.jpg"><img src="/images/blogs/kagakunosaiten/1463691_703016143043606_1301622678_n.jpg" alt=""></a>
+  <a href="/images/blogs/kagakunosaiten/541773_703016106376943_62449838_n.jpg"><img src="/images/blogs/kagakunosaiten/541773_703016106376943_62449838_n.jpg" alt=""></a>
+</div>
