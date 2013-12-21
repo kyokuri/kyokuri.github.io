@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: きょーくりっ概要
 page: outline
 ---

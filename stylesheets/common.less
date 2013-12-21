@@ -45,6 +45,7 @@ body {
 }
 
 #content {
+  padding: 20px 40px;
 }
 
 #footer {
@@ -62,6 +63,44 @@ body {
 	width: auto;
 }
 
-.post-date {
-	font-size: 15px;
+.page-header {
+  position: relative;
+  margin: 40px 0;
+
+  h2 {
+    width: 750px;
+    margin: 0;
+  }
+  time {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+}
+
+.posts {
+  padding: 0;
+
+  .post {
+    .clearfix();
+    list-style-type: none;
+    margin: 10px 0;
+
+    .post-category {
+      float: left;
+      width: 100px;
+      height: 30px;
+      margin: 0;
+    }
+    .post-info {
+      float: left;
+      width: 760px;
+      margin: 5px 0 0 10px;
+      font-size: 14px;
+
+      a {
+        padding: 0 5px 0 0;
+      }
+    }
+  }
 }

@@ -1,9 +1,12 @@
+#top-content {
+  margin: 0 0 0 -40px;
+}
 #about {
   text-align: center;
   margin: 20px 0;
 }
 .top-section {
-  margin: 40px 0;
+  margin: 40px 0 30px 0;
 }
 .top-section .section-title {
   height: 37px;
@@ -15,33 +18,14 @@
   background-repeat: no-repeat;
 }
 .top-section .section-content {
-  padding: 5px 40px 0 60px;
+  padding: 5px 0 0 60px;
   margin: 0;
 }
 #news-section .section-title {
   background-image: url('/images/bar-1.png');
 }
-#news-section #news li {
-  zoom: 1;
-  list-style-type: none;
-  margin: 10px 0;
-}
-#news-section #news li:after {
-  content: "";
-  display: block;
-  clear: both;
-}
-#news-section #news li .news-category {
-  float: left;
-  width: 100px;
-  height: 30px;
-  margin: 0;
-}
-#news-section #news li .news-info {
-  float: left;
-  width: 760px;
-  margin: 5px 0 0 10px;
-  font-size: 14px;
+#news-section .posts {
+  padding: 0 0 0 40px;
 }
 #link-section .section-title {
   background-image: url('/images/bar-2.png');
@@ -94,6 +78,9 @@ body {
   float: left;
   padding: 0;
 }
+#content {
+  padding: 20px 40px;
+}
 #footer {
   background-color: #9F9F9F;
   padding: 20px 30px;
@@ -106,6 +93,44 @@ body {
   height: 150px;
   width: auto;
 }
-.post-date {
-  font-size: 15px;
+.page-header {
+  position: relative;
+  margin: 40px 0;
+}
+.page-header h2 {
+  width: 750px;
+  margin: 0;
+}
+.page-header time {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.posts {
+  padding: 0;
+}
+.posts .post {
+  zoom: 1;
+  list-style-type: none;
+  margin: 10px 0;
+}
+.posts .post:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.posts .post .post-category {
+  float: left;
+  width: 100px;
+  height: 30px;
+  margin: 0;
+}
+.posts .post .post-info {
+  float: left;
+  width: 760px;
+  margin: 5px 0 0 10px;
+  font-size: 14px;
+}
+.posts .post .post-info a {
+  padding: 0 5px 0 0;
 }
