@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Scrathでゲームを作って、紹介するWebページを作ろうワークショップを開催しました。
+category: report
 ---
 
 
