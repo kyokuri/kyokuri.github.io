@@ -4,13 +4,20 @@
 }
 
 .top-section {
+  margin: 40px 0;
+
   .section-title {
     height: 37px;
     width: 950px;
     font-size: 18px;
     font-weight: bold;
     padding: 7px 0 0 50px;
+    margin: 10px 0;
     background-repeat: no-repeat;
+  }
+  .section-content {
+    padding: 5px 40px 0 60px;
+    margin: 0;
   }
 }
 #news-section {
@@ -18,8 +25,6 @@
     background-image: url('/images/bar-1.png');
   }
   #news {
-    padding: 0 40px;
-
     li {
       .clearfix();
       list-style-type: none;
@@ -33,7 +38,7 @@
       }
       .news-info {
         float: left;
-        width: 800px;
+        width: 760px;
         margin: 5px 0 0 10px;
         font-size: 14px;
       }
@@ -45,11 +50,17 @@
     background-image: url('/images/bar-2.png');
   }
   #links {
-    margin: 0 0 0 40px;
+    li {
+      font-size: 14px;
+      margin: 5px 0 5px 30px;
+    }
   }
 }
 #facebook-section {
   .section-title {
     background-image: url('/images/bar-3.png');
+  }
+  .section-content {
+    margin: 0 0 0 30px;
   }
 }

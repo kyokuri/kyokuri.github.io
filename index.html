@@ -9,7 +9,7 @@ title: ホーム
 
 <section id="news-section" class="top-section">
   <h2 class="section-title">What's new</h2>
-  <ul id="news">
+  <ul id="news" class="section-content">
     {% for post in site.posts limit:3 %}
       <li>
         <p class="news-category">
@@ -19,7 +19,7 @@ title: ホーム
         </p>
         <p class="news-info">
           <a href="{{ post.url }}">{{ post.title }}</a>
-          <time>{{ post.date | date_to_string }}</time>
+          <time>{{ post.date | date: "%Y/%m/%d" }}</time>
         </p>
       </li>
     {% endfor %}
@@ -28,7 +28,7 @@ title: ホーム
 
 <section id="link-section" class="top-section">
   <h2 class="section-title">Links</h2>
-  <ul id="links">
+  <ul id="links" class="section-content">
     <li><a href="http://mntr.cosmio.net/">ものづくり寺子屋</a></li>
     <li><a href="http://scratch.mit.edu/">Scratch | Home | imagine, program, share</a></li>
     <li><a href="http://www.viscuit.com/">VISCUIT(ビスケット)〜コンピュータを粘土のように〜</a></li>
@@ -38,5 +38,7 @@ title: ホーム
 
 <section id="facebook-section" class="top-section">
   <h2 class="section-title">Facebook</h2>
-  <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2F%E4%BA%AC%E9%83%BD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%2F272302969453544&amp;width=500&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:427px;" allowTransparency="true"></iframe>
+  <div class="section-content">
+    <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2F%E4%BA%AC%E9%83%BD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%2F272302969453544&amp;width=500&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:427px;" allowTransparency="true"></iframe>
+  </div>
 </section>
