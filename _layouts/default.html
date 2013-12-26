@@ -6,8 +6,8 @@
 		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
 		<meta name="description" content="kyokuri.pwsj.org : " />
 
-		<link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/template.css">
-		<link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/common.css">
+		<link rel="stylesheet" href="/stylesheets/normalize.css" />
+		<link rel="stylesheet" href="/stylesheets/common.less.css" />
 		<script src="/javascripts/main.js"></script>
 
 		<title>{{ page.title }} - {{ site.name }}</title>
@@ -15,37 +15,28 @@
 
 	<body>
 
-		<!-- HEADER -->
-		<div id="header_wrap" class="outer">
-			<header class="inner">
-				<h1 id="project_title"><a href="/">{{ site.name }}</a></h1>
-				<nav id="header_nav">
-					<ul>
-						<li><a href="/">Home</a></li>
-						<li><a href="/about.html">「きょーくりっ」って？</a></li>
-						<li><a href="/members.html">メンバー</a></li>
-						<li><a href="/outline.html">きょーくりっ概要</a></li>
-						<li><a href="/activity.html">活動について</a></li>
-					</ul>
-				</nav>
-			</header>
-		</div>
+		<header id="header">
+			<h1 id="header-title">
+				<a href="/"><img src="/images/logo.png" alt=""></a>
+			</h1>
+			<nav id="header-nav">
+				<ul>
+					<li><a href="/"><img src="/images/nav-home.png" alt=""></a></li>
+					<li><a href="/about.html"><img src="/images/nav-about.png" alt=""></a></li>
+					<li><a href="/members.html"><img src="/images/nav-members.png" alt=""></a></li>
+					<li><a href="/outline.html"><img src="/images/nav-outline.png" alt=""></a></li>
+					<li><a href="/activity.html"><img src="/images/nav-activity.png" alt=""></a></li>
+				</ul>
+			</nav>
+		</header>
 
-		<!-- MAIN CONTENT -->
-		<div id="main_content_wrap" class="outer">
-			<section id="main_content" class="inner">
-				<h2>{{ page.title }}</h2>
-				{{ content }}
-			</section>
-		</div>
+		<section id="content">
+			{{ content }}
+		</section>
 
-		<!-- FOOTER	-->
-		<div id="footer_wrap" class="outer">
-			<footer class="inner">
-				<p class="copyright">kyokuri.pwsj.org maintained by <a href="https://github.com/kyokuri">kyokuri</a></p>
-				<p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-			</footer>
-		</div>
-
+		<footer id="footer">
+			<p class="copyright">kyokuri.pwsj.org maintained by <a href="https://github.com/kyokuri">kyokuri</a></p>
+			<p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+		</footer>
 	</body>
 </html>

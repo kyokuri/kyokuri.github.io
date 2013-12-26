@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 10月20日にノートルダム女子大学にてWebMakerワークショップを開催しました
+category: report
 ---
 
 10月20日、ノートルダム女子大学にてWebMakerワークショップを開催しました。

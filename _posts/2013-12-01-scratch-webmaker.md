@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 12月1日に「Scrathでゲームを作って、紹介するWebページを作ろうワークショップ」を開催します
+category: notice
 ---
 
 ## 開催日時
