@@ -58,6 +58,6 @@ JavaScriptはきょーくりのメインで活動している（そしてこの�
 
 ## 申込み
 
-(きょーくりのDoorKeeper)[http://kyokuri.doorkeeper.jp/]に近々立てますので、もう少しお待ちください。
+[きょーくりのDoorKeeper](http://kyokuri.doorkeeper.jp/)に近々立てますので、もう少しお待ちください。
 
 
