@@ -14,7 +14,7 @@ CoderDojoというのはアイルランドではじまって欧州や米国を�
 
 せっかくなので、きょーくりっとしても新たな試みとしてScratchではなく、JavaScriptをベースにWebアプリケーション作りに子どもたちや周辺の生徒学生の皆さんとチャレンジしてみたいと思っています。
 
-JavaScriptはきょーくりのメインで活動している（そしてこの記事を書いている）僕 @(pastak)[http://twitter.com/pastak] や @(tyage)[http://twitter.com/tyage] が普段から触れているプログラミング環境であり、かつ子どもたちも日常的に使っているブラウザ上でいつも見ているWebサイトで動いているので、そういう意味ではとても魅力的な興味を引きつける環境なのではないかなと思っています。（実際、僕も初めてのプログラミングは小6でJavaScriptで電卓モドキを作ったのでした）
+JavaScriptはきょーくりのメインで活動している（そしてこの記事を書いている）僕 @[pastak](http://twitter.com/pastak) や @[tyage](http://twitter.com/tyage) が普段から触れているプログラミング環境であり、かつ子どもたちも日常的に使っているブラウザ上でいつも見ているWebサイトで動いているので、そういう意味ではとても魅力的な興味を引きつける環境なのではないかなと思っています。（実際、僕も初めてのプログラミングは小6でJavaScriptで電卓モドキを作ったのでした）
 
 まず初回はいきなりですが、「やることメモ帳」を作ることを通してJavaScriptの世界観に慣れてもらおうかなぁと思っています。
 
@@ -36,7 +36,7 @@ JavaScriptはきょーくりのメインで活動している（そしてこの�
 
 ## 場所
 
-- 京都西陣IT路地セミナールーム （(アクセス)[http://it-rouji.net/access/index.html]）
+- 京都西陣IT路地セミナールーム （[アクセス](http://it-rouji.net/access/index.html)）
     - 堀川中立売を東に行ったところにあります。
     - 駐輪も数台は可能です。
 
@@ -51,9 +51,9 @@ JavaScriptはきょーくりのメインで活動している（そしてこの�
 - Wi-Fiに繋がるノートパソコン
     - お持ちでない場合は事前にご相談ください
 - Google Chrome
-    - ダウンロード：(http://www.google.com/intl/ja/chrome/browser/)[http://www.google.com/intl/ja/chrome/browser/]
+    - ダウンロード：[http://www.google.com/intl/ja/chrome/browser/](http://www.google.com/intl/ja/chrome/browser/)
 - EmEditor Free
-    - ダウンロード：(http://jp.emeditor.com/text-editor-features/history/emeditor-free/)[http://jp.emeditor.com/text-editor-features/history/emeditor-free/]
+    - ダウンロード：[http://jp.emeditor.com/text-editor-features/history/emeditor-free/](http://jp.emeditor.com/text-editor-features/history/emeditor-free/)
     - JavaScriptなどを書くのに使用します。Windowsの標準の「メモ帳」でも構いませんが、色がついたりして少し便利です。
 
 ## 申込み
