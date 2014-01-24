@@ -58,6 +58,6 @@ JavaScriptはきょーくりのメインで活動している（そしてこの�
 
 ## 申込み
 
-[きょーくりのDoorKeeper](http://kyokuri.doorkeeper.jp/)に近々立てますので、もう少しお待ちください。
-
+- 2月8日 [http://kyokuri.doorkeeper.jp/events/8597](http://kyokuri.doorkeeper.jp/events/8597)
+- 2月12日は特に申込みを取らないので、フラッと来てください。
 
