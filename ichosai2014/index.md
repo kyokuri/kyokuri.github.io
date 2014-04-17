@@ -29,10 +29,10 @@ page: ichosai2014
 
 ### 事前申し込みフォーム
 
-- [いちょう祭Scratchワークショップ午前回 - 京都クリエイティブワークショップ \| Doorkeeper](http://kyokuri.doorkeeper.jp/events/10688)
-- [いちょう祭Scratchワークショップ午後回 - 京都クリエイティブワークショップ \| Doorkeeper](http://kyokuri.doorkeeper.jp/events/10689)
-- [いちょう祭マインドストームワークショップ午前回 - 京都クリエイティブワークショップ \| Doorkeeper](http://kyokuri.doorkeeper.jp/events/10690)
-- [いちょう祭マインドストームワークショップ午後回 - 京都クリエイティブワークショップ \| Doorkeeper](http://kyokuri.doorkeeper.jp/events/10691)
+| 午前/午後 | Scratchワークショップ | マインドストームワークショップ |
+|:-------------:|:-------------:|:-----:|
+| 午前 | [Scratchワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/10688) | [マインドストームワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/10690) |
+| 午後 | [Scratchワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/10689) | [マインドストームワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/10691) |
 
 その他随時展示なども行っております。
 
