@@ -12,3 +12,11 @@ Howto
         - Markdownパーサーはデフォルトのmarukuを使うとUnicode周りで死ぬ
 
 - レビュー前のエントリを上げる時はレポジトリを切るか、`published: false`にすると公開サイトの一覧に載らないので、適切に利用しましょう。
+
+Less
+===============
+```
+$ npm install -g less
+$ lessc --clean-css stylesheets/common.less > stylesheets/common.le
+ss.css
+```
