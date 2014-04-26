@@ -17,6 +17,5 @@ Less
 ===============
 ```
 $ npm install -g less
-$ lessc --clean-css stylesheets/common.less > stylesheets/common.le
-ss.css
+$ lessc --clean-css stylesheets/common.less > stylesheets/common.less.css
 ```
