@@ -17,6 +17,6 @@ $ bundle exec jekyll serve
 Less
 ===============
 ```sh
-$ npm install -g less
-$ lessc --clean-css stylesheets/common.less > stylesheets/common.less.css
+$ npm install
+$ ./node_modules/less/bin/lessc --clean-css stylesheets/common.less > stylesheets/common.less.css
 ```
