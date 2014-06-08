@@ -4,9 +4,17 @@ title: 活動について
 page: activity
 ---
 
-小中学生向けのワークショップを関西を中心に開催しています。 
+小中学生向けのワークショップを関西を中心に開催しています。
+
+### これまでのイベント
+
+<ul>
+	<li><a href="/ichosai2014/">いちょう祭 2014</a></li>
+	<li><a href="/scratchday2014/">Scratch Day 2014 in Osaka</a></li>
+</ul>
 
 ### これまでの活動
+
 <ul class="posts">
 	{% for post in site.posts %}
     <li class="post">
