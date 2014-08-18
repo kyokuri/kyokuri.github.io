@@ -25,7 +25,7 @@ category: notice
 
 | 午前/午後 | Scratchワークショップ | マインドストームワークショップ |
 |:-------------:|:-------------:|:-----:|
-| 午前 | [Scratchワークショップ（午前）](https://manage.doorkeeper.jp/groups/kyokuri/events/14377) | [マインドストームワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/14376) |
+| 午前 | [Scratchワークショップ（午前）](https://kyokuri.doorkeeper.jp/events/14377) | [マインドストームワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/14376) |
 | 午後 | [Scratchワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/14378) | [マインドストームワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/14379) |
 
 
