@@ -4,6 +4,8 @@ title: 大阪大学e-squareさんでScratchワークショップとサッカー�
 category: notice
 ---
 
+![](/images/blogs/workshop0824_web.png)
+
 今年のゴールデンウィーク期間中に行った[いちょう祭内でのワークショップ](http://kyokuri.pwsj.org/ichosai2014/)が盛況だったので、来週末に同じ場所でワークショップイベントを行います。
 
 （Scratchワークショップの内容は調整中です）
