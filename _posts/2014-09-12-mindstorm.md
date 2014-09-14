@@ -23,6 +23,6 @@ category: notice
 
 ## 申し込み
 
-(http://kyokuri.doorkeeper.jp/events/15174)[http://kyokuri.doorkeeper.jp/events/15174]
+[http://kyokuri.doorkeeper.jp/events/15174](http://kyokuri.doorkeeper.jp/events/15174)
 
 ※都合上、こちらで2人1組にさせていただきます。
