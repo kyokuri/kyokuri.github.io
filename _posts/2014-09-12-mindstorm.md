@@ -8,7 +8,7 @@ category: notice
 
 今回はセンサーやモーターを利用して、ロボットを作成します。
 
-![](/images/blogs/mindstorm-2014/mindstorm/mindstorm.png)
+![](/images/blogs/mindstorm-2014/mindstorm.png)
 
 ## 日時
 
