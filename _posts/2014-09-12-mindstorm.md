@@ -8,6 +8,8 @@ category: notice
 
 今回はセンサーやモーターを利用して、ロボットを作成します。
 
+![](/images/blogs/mindstorm-2014/mindstorm/mindstorm.png)
+
 ## 日時
 
 - 2014年10月5日 10:30 ~ 16:00
