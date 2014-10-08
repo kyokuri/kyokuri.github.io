@@ -21,3 +21,10 @@ category: report
 午後からは2人1組になってもらい、センサーやモータを使用していたずらをするロボットを作りました。
 
 人を追いかけるロボット等、様々なロボットが完成しました。
+
+<div class="gallery">
+  <a href="/images/blogs/2014-10-05-mindstorm/1.jpg"><img src="/images/blogs/2014-10-05-mindstorm/1.jpg"></a>
+  <a href="/images/blogs/2014-10-05-mindstorm/2.jpg"><img src="/images/blogs/2014-10-05-mindstorm/2.jpg"></a>
+  <a href="/images/blogs/2014-10-05-mindstorm/3.jpg"><img src="/images/blogs/2014-10-05-mindstorm/3.jpg"></a>
+  <a href="/images/blogs/2014-10-05-mindstorm/4.jpg"><img src="/images/blogs/2014-10-05-mindstorm/4.jpg"></a>
+</div>

@@ -26,4 +26,3 @@ Scratchワークショップとサッカーロボワークショップを午前�
   <a href="/images/blogs/summer-2014/3.jpg"><img src="/images/blogs/summer-2014/3.jpg"></a>
   <a href="/images/blogs/summer-2014/4.jpg"><img src="/images/blogs/summer-2014/4.jpg"></a>
 </div>
-
