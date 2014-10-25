@@ -11,6 +11,6 @@ category: report
 Scratchを使用して猫からネズミが逃げるゲームを作成しましたが、参加者がそれぞれ面白くなるよう工夫していたのが印象的でした。
 
 <div class="gallery">
-  <a href="/images/blogs/2014-10-05-coderdojo/1.jpg"><img src="/images/blogs/2014-10-05-coderdojo/1.jpg"></a>
-  <a href="/images/blogs/2014-10-05-coderdojo/2.jpg"><img src="/images/blogs/2014-10-05-coderdojo/2.jpg"></a>
+  <a href="/images/blogs/2014-10-24-coderdojo/1.jpg"><img src="/images/blogs/2014-10-24-coderdojo/1.jpg"></a>
+  <a href="/images/blogs/2014-10-24-coderdojo/2.jpg"><img src="/images/blogs/2014-10-24-coderdojo/2.jpg"></a>
 </div>
