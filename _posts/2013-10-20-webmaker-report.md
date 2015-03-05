@@ -19,8 +19,8 @@ category: report
 会場をお貸し頂いた、ノートルダム女子大学人間文化学科 吉田智子先生にも開催報告を書いてくださっています。  
 [http://notredameningen.kyo2.jp/e429620.html](http://notredameningen.kyo2.jp/e429620.html)
 
-![当日の様子](http://kyokuri.pwsj.org/images/blogs/webmaker-report-2013/1383288_691975790814308_17196195_n.jpg)
+![当日の様子](/images/blogs/webmaker-report-2013/1383288_691975790814308_17196195_n.jpg)
 
-![当日の様子](http://kyokuri.pwsj.org/images/blogs/webmaker-report-2013/1377475_691975630814324_1571853568_n.jpg)
+![当日の様子](/images/blogs/webmaker-report-2013/1377475_691975630814324_1571853568_n.jpg)
 
-![当日の様子](http://kyokuri.pwsj.org/images/blogs/webmaker-report-2013/2555_691975677480986_23331873_n.jpg)
+![当日の様子](/images/blogs/webmaker-report-2013/2555_691975677480986_23331873_n.jpg)

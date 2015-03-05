@@ -1,4 +1,4 @@
-kyokuri.pwsj.org
+kyokuri.org
 ================
 
 京都クリエイティブワークショップの公式Webサイトです。

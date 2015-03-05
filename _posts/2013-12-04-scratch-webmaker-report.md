@@ -32,8 +32,8 @@ KRP町家スタジオにて「Scrathでゲームを作って、紹介するWeb�
 
 <div class="gallery">
 
-<img src="http://kyokuri.pwsj.org/images/blogs/scratch1201/1451590_715273291817891_947094515_n.jpg" />
-<img src="http://kyokuri.pwsj.org/images/blogs/scratch1201/1477911_715273431817877_498495204_n.jpg" />
-<img src="http://kyokuri.pwsj.org/images/blogs/scratch1201/599834_715273598484527_1691974266_n.jpg" />
+<img src="/images/blogs/scratch1201/1451590_715273291817891_947094515_n.jpg" />
+<img src="/images/blogs/scratch1201/1477911_715273431817877_498495204_n.jpg" />
+<img src="/images/blogs/scratch1201/599834_715273598484527_1691974266_n.jpg" />
 
 </div>

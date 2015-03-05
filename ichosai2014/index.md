@@ -39,7 +39,7 @@ page: ichosai2014
 
 ## 昨年の様子
 
-![](http://kyokuri.pwsj.org/images/blogs/ichosai-2013/DSCN0387.jpg)
+![](/images/blogs/ichosai-2013/DSCN0387.jpg)
  
 ![](http://e2handai.jp/wp-content/gallery/ichof2013/dsc00476.jpg)
  

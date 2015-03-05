@@ -21,8 +21,8 @@ category: notice
 
 ### 参考
 
-- 過去のScratchワークショップの様子 [http://kyokuri.pwsj.org/blog/2013-05-03-ichosai-2013.html](http://kyokuri.pwsj.org/blog/2013-05-03-ichosai-2013.html)
-- 過去のMozilla Thimbleワークショップの様子 [http://kyokuri.pwsj.org/blog/2013-10-20-webmaker-report.html](http://kyokuri.pwsj.org/blog/2013-10-20-webmaker-report.html)
+- 過去のScratchワークショップの様子 [/blog/2013-05-03-ichosai-2013.html](/blog/2013-05-03-ichosai-2013.html)
+- 過去のMozilla Thimbleワークショップの様子 [/blog/2013-10-20-webmaker-report.html](/blog/2013-10-20-webmaker-report.html)
 
 ## 必要なもの
 
