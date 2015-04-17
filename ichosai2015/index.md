@@ -38,7 +38,7 @@ page: ichosai2015
 ## 昨年の様子
 
 <div class="gallery">
-  <a href="/images/blogs/ichosai-2014/1.jpg">![](/images/blogs/ichosai-2014/1.jpg)</a>
-  <a href="/images/blogs/ichosai-2014/2.jpg">![](/images/blogs/ichosai-2014/2.jpg)</a>
-  <a href="/images/blogs/ichosai-2014/3.jpg">![](/images/blogs/ichosai-2014/3.jpg)</a>
+  <a href="/images/blogs/ichosai-2014/1.jpg"><img src="/images/blogs/ichosai-2014/1.jpg"></a>
+  <a href="/images/blogs/ichosai-2014/2.jpg"><img src="/images/blogs/ichosai-2014/2.jpg"></a>
+  <a href="/images/blogs/ichosai-2014/3.jpg"><img src="/images/blogs/ichosai-2014/3.jpg"></a>
 </div>
