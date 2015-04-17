@@ -28,10 +28,10 @@ page: ichosai2015
 
 ### 事前申し込みフォーム
 
-| 午前/午後 | Scratchワークショップ | マインドストームワークショップ |
-|:-------------:|:-------------:|:-----:|
-| 午前 | [Scratchワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/10688) | [マインドストームワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/10690) |
-| 午後 | [Scratchワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/10689) | [マインドストームワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/10691) |
+参加希望の方は以下のフォームからお申込みください。
+
+- [Scratchワークショップ（午前）](http://kyokuri.doorkeeper.jp/events/23823)
+- [Scratchワークショップ（午後）](http://kyokuri.doorkeeper.jp/events/23824)
 
 その他随時展示なども行っております。
 
