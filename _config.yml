@@ -2,4 +2,4 @@ name: 京都クリエイティブワークショップ
 pygments: true
 permalink: /blog/:year-:month-:day-:title.html
 markdown: kramdown
-exclude: ['Rakefile', 'README.md', 'config.rb', 'vender']
+exclude: ['Rakefile', 'README.md', 'config.rb', 'vendor']
