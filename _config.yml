@@ -1,5 +1,5 @@
 name: 京都クリエイティブワークショップ
-pygments: true
+highlighter: rogue
 permalink: /blog/:year-:month-:day-:title.html
 markdown: kramdown
 exclude: ['Rakefile', 'README.md', 'config.rb', 'vendor']
