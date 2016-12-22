@@ -11,7 +11,6 @@
 }
 
 html {
-  background-image: url("/images/background.png");
 }
 
 body {
@@ -37,11 +36,19 @@ td, th {
 
 #header {
   .clearfix();
+  height: 74px;
+  overflow: hidden;
+  margin: 20px 0 0 0;
+  background: url("/images/kyokuri.png");
+  background-repeat: no-repeat;
+  background-size: 70px 74px;
 
   #header-title {
     float: left;
     margin: 0;
-    width: 404px;
+    width: 304px;
+    font-size: 24px;
+    padding: 0 0 0 90px;
   }
   #header-nav {
     float: right;
@@ -55,6 +62,11 @@ td, th {
       li {
         float: left;
         padding: 0;
+        width: 119px;
+        vertical-align: bottom;
+        font-size: 14px;
+        text-align: center;
+        margin: 30px 0 0;
       }
     }
   }
