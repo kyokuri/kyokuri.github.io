@@ -1,0 +1,15 @@
+.workshops {
+  display: flex;
+  flex-wrap: wrap;
+}
+.workshops > .workshop {
+  flex: 0 0 33%;
+}
+.workshops > .workshop > .workshop-title {
+  font-size: 20px;
+}
+.workshops > .workshop > .workshop-image {
+  width: 100%;
+  height: 200px;
+  background: #eee;
+}
