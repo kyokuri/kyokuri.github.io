@@ -12,35 +12,42 @@
 .workshop {
   flex: 1 1;
   margin: 0 20px 80px;
-  position: relative;
 }
-.workshop > .workshop-title {
+.workshop-inner {
+  width: 260px;
+}
+.workshop .workshop-title {
   margin: 0 0 10px;
   font-size: 20px;
   font-weight: bold;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
-.workshop > .workshop-image {
-  width: 100%;
-  height: 200px;
+.workshop-description {
+  position: relative;
+  height: 260px;
+}
+.workshop .workshop-description .workshop-image {
+  width: 260px;
+  height: 260px;
   background: #eee;
   border: 0;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.3);
 }
-.workshop > .workshop-description {
+.workshop .workshop-description .workshop-description-text {
   position: absolute;
-  top: 155px;
+  bottom: 0;
   left: 0;
   right: 0;
   height: 60px;
   background: rgba(255,255,255,0.8);
-  box-shadow: 0px 5px 10px rgba(0,0,0,0.3);
   padding: 5px 10px;
+  margin: 0;
   font-size: 14px;
 }
-.workshop > .workshop-navs {
-  margin: 10px 0 0;
+.workshop .workshop-navs {
+  margin: 20px 0 0;
 }
-.workshop > .workshop-navs > button {
+.workshop .workshop-navs button {
   background: #8C6450;
   box-shadow: 1px 1px 10px rgba(0,0,0,0.3);
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
@@ -50,10 +57,10 @@
   padding: 5px 10px;
   font-size: 14px;
 }
-.workshop > .workshop-navs > button:first-child {
+.workshop .workshop-navs button:first-child {
   background: #00A5BF;
   float: left;
 }
-.workshop > .workshop-navs > button:last-child {
+.workshop .workshop-navs button:last-child {
   float: right;
 }
