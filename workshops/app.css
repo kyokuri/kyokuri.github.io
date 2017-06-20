@@ -22,27 +22,33 @@
   font-weight: bold;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
-.workshop-description {
+.workshop .workshop-description {
   position: relative;
   height: 260px;
+  overflow: hidden;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.3);
 }
 .workshop .workshop-description .workshop-image {
   width: 260px;
   height: 260px;
   background: #eee;
   border: 0;
-  box-shadow: 1px 1px 10px rgba(0,0,0,0.3);
 }
 .workshop .workshop-description .workshop-description-text {
   position: absolute;
-  bottom: 0;
+  bottom: -80px;
+  transition: bottom 0.1s linear;
   left: 0;
   right: 0;
-  height: 60px;
+  height: 80px;
   background: rgba(255,255,255,0.8);
   padding: 5px 10px;
   margin: 0;
   font-size: 14px;
+  box-sizing: border-box;
+}
+.workshop .workshop-description:hover .workshop-description-text {
+  bottom: 0;
 }
 .workshop .workshop-navs {
   margin: 20px 0 0;
