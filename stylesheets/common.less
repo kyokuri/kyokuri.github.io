@@ -11,12 +11,9 @@
 }
 
 html {
-  background-image: url("/images/background.png");
 }
 
 body {
-  width: 1000px;
-  margin: 0 auto;
   background: white;
   color: #333;
 }
@@ -35,27 +32,62 @@ td, th {
   padding: 5px 10px;
 }
 
+.header-nav-color(@color) {
+  border-color: @color;
+  &:hover {
+    background: @color;
+  }
+}
 #header {
-  .clearfix();
+  text-align: center;
+  border-bottom: 1px solid #ddd;
 
   #header-title {
-    float: left;
-    margin: 0;
-    width: 404px;
+    display: inline-block;
+    margin: 0 20px 0 0;
+    font-size: 18px;
   }
   #header-nav {
-    float: right;
-
+    display: inline-block;
+    font-size: 0;
+    vertical-align: top;
     ul {
-      .clearfix;
       margin: 0;
       padding: 0;
       list-style-type: none;
 
       li {
-        float: left;
-        padding: 0;
+        display: inline-block;
+        a {
+          font-size: 13px;
+          font-weight: bold;
+          display: inline-block;
+          padding: 20px 5px 15px 5px;
+          border-bottom-width: 5px;
+          border-bottom-style: solid;
+          min-width: 100px;
+          color: black;
+          &:hover {
+            text-decoration: none;
+            color: white;
+          }
+        }
       }
+    }
+    .header-nav-home {
+      .header-nav-color(#DC4480);
+    }
+    .header-nav-about {
+      .header-nav-color(#FF8500);
+    }
+    .header-nav-members {
+      .header-nav-color(#9ADA00);
+    }
+    .header-nav-outline {
+      .header-nav-color(#00BDED);
+    }
+    .header-nav-activity {
+      .header-nav-color(#1A477C);
     }
   }
 }
