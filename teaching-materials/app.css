@@ -1,3 +1,20 @@
+.main-title {
+  text-align: center;
+  margin: 100px 0;
+}
+
+.teaching-materials-container .contents-section {
+  border-bottom: 1px solid #ddd;
+  margin: 0 0 50px 0;
+  padding: 0 0 50px 0;
+}
+.teaching-materials-container .contents-section:last-child {
+  border-bottom: 0;
+}
+.contents-section .seciton-title {
+  margin: 40px 0;
+}
+
 .workshops {
   display: flex;
   flex-wrap: wrap;
