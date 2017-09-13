@@ -45,7 +45,24 @@ td, th {
   #header-title {
     display: inline-block;
     margin: 0 20px 0 0;
-    font-size: 18px;
+    padding: 5px 0 0 0;
+    text-align: left;
+    font-size: 16px;
+    a {
+      color: #333;
+      display: inline-block;
+      &:hover {
+        text-decoration: none;
+      }
+      img, span {
+        display: inline-block;
+      }
+      img {
+        width: 30px;
+        height: 35px;
+        margin: 0 10px 0 0;
+      }
+    }
   }
   #header-nav {
     display: inline-block;
@@ -66,7 +83,7 @@ td, th {
           border-bottom-width: 5px;
           border-bottom-style: solid;
           min-width: 100px;
-          color: black;
+          color: #333;
           &:hover {
             text-decoration: none;
             color: white;
