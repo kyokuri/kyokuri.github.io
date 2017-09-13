@@ -38,79 +38,88 @@ td, th {
     background: @color;
   }
 }
-#header {
-  text-align: center;
+#header-wrapper {
   border-bottom: 1px solid #ddd;
+  #header {
+    .clearfix();
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
 
-  #header-title {
-    display: inline-block;
-    margin: 0 20px 0 0;
-    padding: 5px 0 0 0;
-    text-align: left;
-    font-size: 16px;
-    a {
-      color: #333;
-      display: inline-block;
-      &:hover {
-        text-decoration: none;
-      }
-      img, span {
+    #header-title {
+      float: left;
+      display: block;
+      margin: 0 20px 0 0;
+      padding: 5px 0 0 0;
+      text-align: left;
+      font-size: 16px;
+      a {
+        color: #333;
         display: inline-block;
-      }
-      img {
-        width: 30px;
-        height: 35px;
-        margin: 0 10px 0 0;
-      }
-    }
-  }
-  #header-nav {
-    display: inline-block;
-    font-size: 0;
-    vertical-align: top;
-    ul {
-      margin: 0;
-      padding: 0;
-      list-style-type: none;
-
-      li {
-        display: inline-block;
-        a {
-          font-size: 13px;
-          font-weight: bold;
+        &:hover {
+          text-decoration: none;
+        }
+        img, span {
           display: inline-block;
-          padding: 20px 5px 15px 5px;
-          border-bottom-width: 5px;
-          border-bottom-style: solid;
-          min-width: 100px;
-          color: #333;
-          &:hover {
-            text-decoration: none;
-            color: white;
-          }
+        }
+        img {
+          width: 30px;
+          height: 35px;
+          margin: 0 10px 0 0;
         }
       }
     }
-    .header-nav-home {
-      .header-nav-color(#DC4480);
-    }
-    .header-nav-about {
-      .header-nav-color(#FF8500);
-    }
-    .header-nav-members {
-      .header-nav-color(#9ADA00);
-    }
-    .header-nav-outline {
-      .header-nav-color(#00BDED);
-    }
-    .header-nav-activity {
-      .header-nav-color(#1A477C);
+    #header-nav {
+      float: right;
+      display: block;
+      font-size: 0;
+      vertical-align: top;
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+
+        li {
+          display: inline-block;
+          a {
+            font-size: 13px;
+            font-weight: bold;
+            display: inline-block;
+            padding: 20px 5px 15px 5px;
+            border-bottom-width: 5px;
+            border-bottom-style: solid;
+            width: 130px;
+            color: #333;
+            &:hover {
+              text-decoration: none;
+              color: white;
+            }
+          }
+        }
+      }
+      .header-nav-home {
+        .header-nav-color(#DC4480);
+      }
+      .header-nav-about {
+        .header-nav-color(#FF8500);
+      }
+      .header-nav-members {
+        .header-nav-color(#9ADA00);
+      }
+      .header-nav-outline {
+        .header-nav-color(#00BDED);
+      }
+      .header-nav-activity {
+        .header-nav-color(#1A477C);
+      }
     }
   }
 }
 
 #content {
-  padding: 20px 40px;
+  width: 960px;
+  margin: 0 auto;
+  padding: 20px 0 40px 0;
 }
 
 #footer {
@@ -157,7 +166,7 @@ td, th {
   .post {
     .clearfix();
     list-style-type: none;
-    margin: 10px 0;
+    margin: 0 0 10px 0;
 
     .post-category {
       float: left;
