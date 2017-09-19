@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  background: white;
+  background: #f5f5f5;
   color: #333;
 }
 
@@ -39,10 +39,16 @@ td, th {
   }
 }
 #header-wrapper {
-  border-bottom: 1px solid #ddd;
+  box-shadow: 0px 6px 3px -3px #ddd;
+  border-bottom: 1px solid #ccc;
+  position: sticky;
+  top: 0;
+  background: #f5f5f5;
+  z-index: 10000;
+
   #header {
     .clearfix();
-    width: 1000px;
+    width: 960px;
     margin: 0 auto;
     text-align: center;
 
@@ -118,14 +124,20 @@ td, th {
 
 #content {
   width: 960px;
+  box-sizing: border-box;
   margin: 0 auto;
-  padding: 20px 0 40px 0;
+  padding: 20px 20px 40px 20px;
+  background: #fff;
+  box-shadow: 0 0 4px #ddd;
 }
 
 #footer {
-  background-color: #9F9F9F;
   padding: 20px 30px;
+  box-shadow: 0px -6px 3px -3px #ddd;
   font-size: 14px;
+  background-color: #f5f5f5;
+  font-size: 14px;
+  border-top: 1px solid #ccc;
 
   p {
     margin: 5px 0;
